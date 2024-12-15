@@ -5125,7 +5125,7 @@
         ]
     },
     "objects": {
-        "Lower_layer_Super_Output_Areas_(December_2021)_Boundaries_EW_BFC_(V10)": {
+        "LSOA_2021": {
             "type": "GeometryCollection",
             "geometries": [
                 {
